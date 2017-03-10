@@ -1,6 +1,3 @@
 [submodule "qa-plugin/markdown-editor"]
 	path = qa-plugin/markdown-editor
-	url = git@github.com:svivian/q2a-markdown-editor.git
-[submodule "qa-plugin/syntax-highlighter"]
-	path = qa-plugin/syntax-highlighter
-	url = git@github.com:amiyasahu/q2a-syntax-highlighter.git
+	url = git@github.com:studyportals/q2a-markdown-editor.git
